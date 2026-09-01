@@ -10,3 +10,11 @@ Il progetto consiste nella realizzazione di un’applicazione backend **Node.js/
 - Creare una rotta `/bacheca` che restituisca un oggetto json con la lista dei post.
 - Configurare gli asset statici sull’applicazione in modo che si possano visualizzare le immagini associate ad ogni post.
 - Testare su Postman.
+
+# Screenshot Test
+
+![Test rotta /](./postman/images_test/postman-root.png)
+![Test rotta /bacheca](./postman/images_test/postman-bacheca_1.png)
+![Test rotta /bacheca](./postman/images_test/postman-bacheca_2.png)
+![Test rotta /bacheca](./postman/images_test/postman-bacheca_3.png)
+![Test rotta /images](./postman/images_test/postman-images.png)
